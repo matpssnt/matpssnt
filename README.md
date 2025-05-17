@@ -79,10 +79,10 @@
 
 <p align="center">
     <img
-    src="https://github-readme-stats.vercel.app/api?username=matpssnt&show_icons=true&theme=gotham&&hide_border=true&count_private=true&include_all_commits=true" alt="matpssnt's Github Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=matpssnt&show_icons=true&theme=github_dark&&hide_border=true&count_private=true&include_all_commits=true" alt="matpssnt's Github Stats" 
     /> 
     <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpssnt&layout=compact&theme=gotham&hide_border=true" alt="matpssnt's Top Linguagens" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matpssnt&layout=compact&theme=github_dark&hide_border=true" alt="matpssnt's Top Linguagens" 
     />
 </p>
 
