@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 align="center">𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 DEV𝚂𝙿𝙰𝙲𝙴</h2>
+  <h2 align="center" style="white-space: nowrap">𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 DEV𝚂𝙿𝙰𝙲𝙴</h2>
   
   <p align="center">
     <img 
