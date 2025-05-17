@@ -12,22 +12,22 @@
 
 ### 📞 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴
 
-<p align="center"> 
+<p> 
     <a href="https://linkedin.com/in/matpssnt"> 
         <img
         alt="LinkedIn"
         title="LinkedIn"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        width="32px"
+        width="40"
         /> 
     </a>
-    &#8287;&#8287;
+    &#8287;&#8287;&#8287;
     <a href="https://instagram.com/teushcp_"> 
         <img
         alt="Instagram"
         title="Instagram"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        width="32px"
+        width="40"
         /> 
     </a> 
 </p>
