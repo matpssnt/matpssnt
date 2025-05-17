@@ -1,9 +1,6 @@
 <div align="center">
 
-  <h2 align="center">𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 DEV𝚂𝙿𝙰𝙲𝙴 
-    <img 
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h2>
+  <h2 align="center">𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 DEV𝚂𝙿𝙰𝙲𝙴</h2>
   
   <p align="center">
     <img 
@@ -15,7 +12,7 @@
 
 ### 📞 𝙲𝙾𝙽𝙽𝙴𝙲𝚃 𝚆𝙸𝚃𝙷 𝙼𝙴
 
-<p> 
+<p align="center"> 
     <a href="https://linkedin.com/in/matpssnt"> 
         <img
         alt="LinkedIn"
