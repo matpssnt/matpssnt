@@ -88,7 +88,7 @@
 
 </details>
 
-### 📜 CERTIFICATIONS AND BADGE
+### 📜 CERTIFICATIONS AND BADGES
 
 <p>
   <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">
