@@ -91,6 +91,12 @@
 ### 📜 CERTIFICATIONS AND BADGES
 
 <p>
+  <a href="https://www.credly.com/badges/d88ab628-abb5-4311-8810-14033e2bb0b5/public_url">
+    <img 
+    src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" 
+    width="85" 
+    alt="Cyber Threat Management">
+  </a>
   <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">
     <img 
     src="https://images.credly.com/size/220x220/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" 
