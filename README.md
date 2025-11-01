@@ -98,10 +98,10 @@
     alt="Cyber Threat Management">
   </a>
   &#8287;
-  <a href="https://www.credly.com/badges/d88ab628-abb5-4311-8810-14033e2bb0b5/public_url">
-    <img 
-    src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" 
-    width="85" 
+  <a href="https://www.credly.com/badges/f6730867-5475-43b1-bcd5-72ef6b614a3a/public_url">
+    <img
+    src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
+    width="85"
     alt="CCNA: Introduction to Networks">
   </a>
   &#8287;
