@@ -97,11 +97,12 @@
     width="85" 
     alt="Cyber Threat Management">
   </a>
-  <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">
+  &#8287;
+  <a href="https://www.credly.com/badges/d88ab628-abb5-4311-8810-14033e2bb0b5/public_url">
     <img 
-    src="https://images.credly.com/size/220x220/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" 
+    src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" 
     width="85" 
-    alt="Network Defense">
+    alt="CCNA: Introduction to Networks">
   </a>
   &#8287;
   <a href="https://www.credly.com/badges/28297ed7-e653-422a-a95f-49ce26b75a44/public_url">
@@ -111,10 +112,10 @@
     alt="Network Technician Career Path">
   </a>
   &#8287;
-  <a href="https://www.credly.com/badges/0ba076de-530f-40bb-989f-7f3360232d13/public_url">
+  <a href="https://www.credly.com/badges/4493dd64-d89c-459f-b673-1fecfbdfb238/public_url">
     <img 
-    src="https://images.credly.com/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/blob" 
+    src="https://images.credly.com/size/220x220/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" 
     width="85" 
-    alt="Networking Academy Learn-A-Thon 2025">
+    alt="Network Defense">
   </a>
 </p>
