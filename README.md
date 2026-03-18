@@ -94,6 +94,12 @@
 ### 📜 CERTIFICATIONS AND BADGES
 
 <p>
+  <a href="https://www.credly.com/badges/5a954e33-64f8-4fc1-a91d-1b76fac69b87/public_url">
+    <img 
+    src="https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" 
+    width="85" 
+    alt="CyberOps Associate">
+  </a>
   <a href="https://www.credly.com/badges/d88ab628-abb5-4311-8810-14033e2bb0b5/public_url">
     <img 
     src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" 
