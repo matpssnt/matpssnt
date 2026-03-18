@@ -100,6 +100,12 @@
     width="85" 
     alt="CyberOps Associate">
   </a>
+  <a href="https://www.credly.com/badges/c1ac1792-30eb-44cb-9863-8934687c1035/public_url">
+    <img 
+    src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
+    width="85" 
+    alt="Introduction to Cybersecurity">
+  </a>
   <a href="https://www.credly.com/badges/d88ab628-abb5-4311-8810-14033e2bb0b5/public_url">
     <img 
     src="https://images.credly.com/size/220x220/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" 
