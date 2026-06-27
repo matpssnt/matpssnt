@@ -94,6 +94,12 @@
 ### 📜 CERTIFICATIONS AND BADGES
 
 <p>
+  <a href="https://www.credly.com/badges/4036b3d3-9165-4eb9-9120-d50886feb0a7/public_url">
+    <img 
+    src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" 
+    width="85" 
+    alt="Junior Cybersecurity Analyst Career Path">
+  </a>
   <a href="https://www.credly.com/badges/5a954e33-64f8-4fc1-a91d-1b76fac69b87/public_url">
     <img 
     src="https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" 
